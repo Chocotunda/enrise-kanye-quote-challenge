@@ -1,5 +1,5 @@
 # enrise-kanye-quote-challenge
-This is an assignment given by Enrise. It is time to acknowledge the wise words of Kanye West *cough*.
+This is an assignment given by Enrise. It is time to acknowledge the wise words of Kanye West (*cough*).
 
 You can view the app in production [here](https://639cfc56abc4ab18f7a931fd--eclectic-bubblegum-d30c7b.netlify.app/).
 
